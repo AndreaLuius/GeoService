@@ -1,0 +1,2663 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<GEOSuedi>
+<richiedente>
+<codice>1</codice>
+<cognome>CERRUTI</cognome>
+<nome>ENRICO</nome>
+<codfiscale>CRRNRC57H05L219L</codfiscale>
+<citta>ASTI</citta>
+<indirizzo>Via Mario Desderi, 14</indirizzo>
+<cap>14100</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>2</codice>
+<cognome>LENOCI</cognome>
+<nome>ANTONIETTA STELLA</nome>
+<codfiscale>LNCNNT69R47F205U</codfiscale>
+<citta>SEREGNO</citta>
+<indirizzo>via San Carlo n.6</indirizzo>
+<cap>20831</cap>
+<provincia>MB</provincia>
+</richiedente>
+<richiedente>
+<codice>3</codice>
+<cognome>MODESTI</cognome>
+<nome>LUCIANA</nome>
+<codfiscale>MDSLCN53M61I138C</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI N.6</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>4</codice>
+<cognome>ROSSI</cognome>
+<nome>ALBERTO AMMIRATI</nome>
+<codfiscale>RSSMNL56D57A010C</codfiscale>
+<citta>ALBAIRATE</citta>
+<indirizzo>VIA DEI MULINI, 8</indirizzo>
+<cap>20080</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>4</codice>
+<cognome>SALUZZI</cognome>
+<nome>GAETANO</nome>
+<codfiscale>SLZGTN51R17G081E</codfiscale>
+<citta>ALBAIRATE</citta>
+<indirizzo>VIAN DEI MULINI, 8</indirizzo>
+<cap>20080</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>5</codice>
+<cognome>GERLO</cognome>
+<nome>CRISTINA</nome>
+<codfiscale>GRLCST68E64F952W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 81</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>6</codice>
+<cognome>BAVERA</cognome>
+<nome>GIROLAMO</nome>
+<codfiscale>BVRGLM51A01L951Z</codfiscale>
+<citta>CIRIÉ</citta>
+<indirizzo>VIA VIGNA 88/D</indirizzo>
+<cap>10073</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>7</codice>
+<cognome>LEONE</cognome>
+<nome>CINZIA</nome>
+<codfiscale>LNECNZ74B41E290N</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI N°26</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>8</codice>
+<cognome>DIURNO</cognome>
+<nome>MARCO</nome>
+<codfiscale>DRNMRC77L03H926Q</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA N°106</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>9</codice>
+<cognome>SAPPA</cognome>
+<nome>GABRIELLA</nome>
+<codfiscale>SPPGRL50P69G114K</codfiscale>
+<citta>GARESSIO</citta>
+<indirizzo>via Piambernardo 29</indirizzo>
+<cap>12075</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>10</codice>
+<cognome>DE MICHELIS</cognome>
+<nome>FRANCESCA</nome>
+<codfiscale>DMCFNC64S41I138M</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>corso villaregia 102</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>11</codice>
+<cognome>TALENTI</cognome>
+<nome>MARIELLA</nome>
+<codfiscale>TLNMLL63C59E290K</codfiscale>
+<citta>POMPEIANA</citta>
+<indirizzo>via mazzini 102</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>12</codice>
+<cognome>CORNO</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>CRNFNC40D27E514B</codfiscale>
+<citta>LEGNANO</citta>
+<indirizzo>VIA MONTEBELLO 33</indirizzo>
+<cap>20025</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>13</codice>
+<cognome>TOESCA</cognome>
+<nome>ANGELA</nome>
+<codfiscale>TSCNGL55D55I138T</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>GARIBALDI  10</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>14</codice>
+<cognome>ANFOSSI</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>NFSRNN47H67G814W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via garibaldi 40 ter</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>15</codice>
+<cognome>SURDO</cognome>
+<nome>SILVANA</nome>
+<codfiscale>SRDSVN65B49L219E</codfiscale>
+<citta>SANTENA</citta>
+<indirizzo>VIA SAMBUY 59</indirizzo>
+<cap>10026</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>15</codice>
+<cognome>SANNA</cognome>
+<nome>ULISSE</nome>
+<codfiscale>SNNLSS63B04L512N</codfiscale>
+<citta>SANTENA</citta>
+<indirizzo>VIA SAMBUY 59</indirizzo>
+<cap>10026</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>16</codice>
+<cognome>MOLINARI</cognome>
+<nome>MARIA ROSA</nome>
+<codfiscale>MLNMRS42C43H345P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via S. Maurizio 37</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>16</codice>
+<cognome>DI FABIO</cognome>
+<nome>LAURA</nome>
+<codfiscale>DFBLRA64C48I138E</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via S. Maurizio 37</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>16</codice>
+<cognome>DI FABIO</cognome>
+<nome>MARCO</nome>
+<codfiscale>DFBMRC66L18I138F</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Nino Bixio 99</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>17</codice>
+<cognome>ROSSI</cognome>
+<nome>PIETRO</nome>
+<codfiscale>RSSPTR45E02L741O</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BATOLA 7</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>17</codice>
+<cognome>BELLANTONIO</cognome>
+<nome>ANNUNZIATA</nome>
+<codfiscale>BLLNNZ42R52G288K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BATOLA 7</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>18</codice>
+<cognome>SIVERA</cognome>
+<nome>FRANCO</nome>
+<codfiscale>SVRFNC67P05F335E</codfiscale>
+<citta>ROATTO</citta>
+<indirizzo>FRAZIONE GOBBI 10/BIS</indirizzo>
+<cap>14018</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>19</codice>
+<cognome>GIUFFRA</cognome>
+<nome>MASSIMO</nome>
+<codfiscale>GFFMSM72A17I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA, 106</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>20</codice>
+<cognome>CARROZZINO</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>CRRRNN51C49L024R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>21</codice>
+<cognome>CARROZZINO</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>CRRRNN51C49L024R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>22</codice>
+<cognome>MERANTE</cognome>
+<nome>NIVES</nome>
+<codfiscale>MRNNVS53L53B594E</codfiscale>
+<citta>CANELLI</citta>
+<indirizzo>via villanuova 95</indirizzo>
+<cap>14053</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>22</codice>
+<cognome>GIORNO</cognome>
+<nome>LUIGI</nome>
+<codfiscale>GRNLGU53A10Z110O</codfiscale>
+<citta>CANELLI</citta>
+<indirizzo>via villanuova 95</indirizzo>
+<cap>14053</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>22</codice>
+<cognome>GIORNO</cognome>
+<nome>LUIGI</nome>
+<codfiscale>GRNLGU53A10Z110O</codfiscale>
+<citta>CANELLI</citta>
+<indirizzo>VIA VILLANUOVA 95</indirizzo>
+<cap>14053</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>23</codice>
+<cognome>GIULIANI</cognome>
+<nome>GABRIELE</nome>
+<codfiscale>GLNGRL34S06D394H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BARGO 16</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>24</codice>
+<cognome>CECCHELLI</cognome>
+<nome>ENRICO</nome>
+<codfiscale>CCCNRC56R13I138W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi 63</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>25</codice>
+<cognome>ANFOSSI</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>NFSRNN47H67G814W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi, 40</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>26</codice>
+<cognome>LUPI</cognome>
+<nome>PAOLO</nome>
+<codfiscale>LPUPLA79M06I138N</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>via Aurelia Ponente, 42/12</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>26</codice>
+<cognome>DI FELICE</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>DFLSFN81T66E290E</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>Via Aurelia Ponente 42/12</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>27</codice>
+<cognome>DEL VERME</cognome>
+<nome>GIANCARLO</nome>
+<codfiscale>DLVGCR65L19I138C</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA COMUNALE DON 2BIS</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>28</codice>
+<cognome>LEONE</cognome>
+<nome>PAOLA</nome>
+<codfiscale>LNEPLA67B67I138Q</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via giardino n.34</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>29</codice>
+<cognome>ABBA'</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>BBASFN79E41D205C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>VIA ANTONIO MEUCCI N. 8</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>29</codice>
+<cognome>ABBA'</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>BBASFN79E41D205C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>VIA ANTONIO MEUCCI N. 8</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>30</codice>
+<cognome>ABBA'</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>BBASFN79E41D205C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>VIA ANTONIO MEUCCI N. 8</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>30</codice>
+<cognome>ABBA'</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>BBASFN79E41D205C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>VIA ANTONIO MEUCCI N. 8</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>31</codice>
+<cognome>PESANTE</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>PSNNTN64A26I138S</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Casai n° 2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>32</codice>
+<cognome>GAMBIRASIO</cognome>
+<nome>ANGELA</nome>
+<codfiscale>GMBNGL46R56B703E</codfiscale>
+<citta>OSIO SOTTO</citta>
+<indirizzo>VIA DOMENICO CIMAROSA 8</indirizzo>
+<cap>24046</cap>
+<provincia>BG</provincia>
+</richiedente>
+<richiedente>
+<codice>33</codice>
+<cognome>BORGESE</cognome>
+<nome>ANDREA</nome>
+<codfiscale>BRGNDR83E21E290R</codfiscale>
+<citta>SAN PAWL IL-BAHAR</citta>
+<indirizzo>Triq Il-Wileg, Bellavista Court Flat 3</indirizzo>
+<cap>1922</cap>
+<provincia>EE</provincia>
+</richiedente>
+<richiedente>
+<codice>33</codice>
+<cognome>DELLE MONACHE</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>DLLNTN34A21A445Y</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>34</codice>
+<cognome>NICOLA</cognome>
+<nome>SARA</nome>
+<codfiscale>NCLSRA78L41B791I</codfiscale>
+<citta>TRINITÀ</citta>
+<indirizzo>VIA G. LEOPARDI 1</indirizzo>
+<cap>12049</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>34</codice>
+<cognome>NICOLA</cognome>
+<nome>FRANCO</nome>
+<codfiscale>NCLFNC68M12B791X</codfiscale>
+<citta>CHIERI</citta>
+<indirizzo>CORSO B. BUOZZI 3/C</indirizzo>
+<cap>10023</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>35</codice>
+<cognome>RUOCCO</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>RCCFNC70C03B990Z</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>VIALE FRANCESCO RESTELLI 1/A</indirizzo>
+<cap>20124</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>36</codice>
+<cognome>NOCERA</cognome>
+<nome>MARCO</nome>
+<codfiscale>NCRMRC66B20D319E</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>VIA II TRAVERSA AURELIA PONENTE, 8</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>37</codice>
+<cognome>RUOCCO</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>RCCFNC70C03B990Z</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>VIALE FRANCESCO RESTELLI 1/A</indirizzo>
+<cap>20124</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>38</codice>
+<cognome>SOLA</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>SLONTN70R31F735K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI, 26</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>39</codice>
+<cognome>SABOLLA</cognome>
+<nome>ANTONIETTA</nome>
+<codfiscale>SBLNNT47H59G261P</codfiscale>
+<citta>ACQUI TERME</citta>
+<indirizzo>VIA MADONNINA n. 10</indirizzo>
+<cap>15011</cap>
+<provincia>AL</provincia>
+</richiedente>
+<richiedente>
+<codice>40</codice>
+<cognome>DI FABIO</cognome>
+<nome>MARCO</nome>
+<codfiscale>DFBMRC66L18I138F</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO 99</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>40</codice>
+<cognome>DI FABIO</cognome>
+<nome>LAURA</nome>
+<codfiscale>DFBLRA64C48I138E</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA S. MAURIZIO 37</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>40</codice>
+<cognome>MOLINARI</cognome>
+<nome>MARIA ROSA</nome>
+<codfiscale>MLNMRS42C43H345P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA S. MAURIZIO 37</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>41</codice>
+<cognome>CATITTI</cognome>
+<nome>ALESSANDRO</nome>
+<codfiscale>CTTLSN53H14I138R</codfiscale>
+<citta>CASTELLARO</citta>
+<indirizzo>Regione Poggio</indirizzo>
+<cap>18011</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>41</codice>
+<cognome>GIAMMARINO</cognome>
+<nome>ADRIANA</nome>
+<codfiscale>GMMDRN58B51E290K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Vigne</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>42</codice>
+<cognome>RAVIOLA</cognome>
+<nome>GIUSEPPE</nome>
+<codfiscale>RVLGPP62C20A124P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI 47</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>43</codice>
+<cognome>SIGISMONDO</cognome>
+<nome>KATIA</nome>
+<codfiscale>SGSKTA79S54L219O</codfiscale>
+<citta>SAVIGLIANO</citta>
+<indirizzo>via giolitti</indirizzo>
+<cap>10023</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>44</codice>
+<cognome>BOERI</cognome>
+<nome>DIEGO</nome>
+<codfiscale>BRODGI86L23I138S</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Comunale DON n.7</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>44</codice>
+<cognome>DE SANTIS</cognome>
+<nome>DIEGO</nome>
+<codfiscale>DSNDTL86M56D643J</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Comunale DON n.7</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>45</codice>
+<cognome>COMI</cognome>
+<nome>SILVANA</nome>
+<codfiscale>CMOSVN50M60A794M</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>CORSO MAZZINI 531</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>46</codice>
+<cognome>GIUFFRA</cognome>
+<nome>MASSIMO</nome>
+<codfiscale>GFFMSM72A17I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VILALREGGIA 106/B</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>47</codice>
+<cognome>MORANDO</cognome>
+<nome>MATTEO</nome>
+<codfiscale>MRNMTT83P15E290C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>Corso Dante Alighieri</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>48</codice>
+<cognome>CONIO</cognome>
+<nome>VALENTINO</nome>
+<codfiscale>CNOVNT64E15I138F</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA 114</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>48</codice>
+<cognome>CONIO</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>CNOGNN57M06I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via nino bixio 76</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>49</codice>
+<cognome>CAVALLERO</cognome>
+<nome>MAURIZIO</nome>
+<codfiscale>CVLMRZ65C26I138R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Stada Passi 10</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>50</codice>
+<cognome>GIUFFRA</cognome>
+<nome>MASSIMO</nome>
+<codfiscale>GFFMSM72A17I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA, 106</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>51</codice>
+<cognome>GIUFFRA</cognome>
+<nome>MASSIMO</nome>
+<codfiscale>GFFMSM72A17I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA, 106</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>52</codice>
+<cognome>GUIDDO</cognome>
+<nome>CATERINA</nome>
+<codfiscale>GDDCRN67T43E290K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Nino Bixio n.83/0</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>53</codice>
+<cognome>GIUFFRA</cognome>
+<nome>MASSIMO</nome>
+<codfiscale>GFFMSM72A17I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA, 106</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>54</codice>
+<cognome>TIRONE</cognome>
+<nome>SABINO</nome>
+<codfiscale>TRNSBN85E07E290V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via aurelia</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>54</codice>
+<cognome>TIRONE</cognome>
+<nome>VINCENZO</nome>
+<codfiscale>TRNVCN70R11I138Q</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>54</codice>
+<cognome>D'ETTORRE</cognome>
+<nome>MARISA</nome>
+<codfiscale>DTTMRS46P44G589B</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>55</codice>
+<cognome>CASATI</cognome>
+<nome>GIORGIO</nome>
+<codfiscale>CSTGRG80B22M052C</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI, 40/6</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>56</codice>
+<cognome>GAMBIRASIO</cognome>
+<nome>ANGELA</nome>
+<codfiscale>GMBNGL46R56B703E</codfiscale>
+<citta>OSIO SOTTO</citta>
+<indirizzo>VIA DOMENICO CIMAROSA 8</indirizzo>
+<cap>24046</cap>
+<provincia>BG</provincia>
+</richiedente>
+<richiedente>
+<codice>57</codice>
+<cognome>DE MICHELIS</cognome>
+<nome>CATERINA</nome>
+<codfiscale>DMCCRN55R56I138T</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi n.2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>58</codice>
+<cognome>PESANTE</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>PSNNTN64A26I138S</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Casai n° 2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>59</codice>
+<cognome>STRIGLIONI</cognome>
+<nome>MARIA</nome>
+<codfiscale>STRMRA31P68H345W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO SAN MAURIZIO 35</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>60</codice>
+<cognome>GUARDIANI</cognome>
+<nome>ROSSELLA</nome>
+<codfiscale>GRDRSL79C60E290G</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO 32</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>61</codice>
+<cognome>DI FALCO</cognome>
+<nome>FEDERICA</nome>
+<codfiscale>DFLFRC97H60A984R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI n.83</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>61</codice>
+<cognome>VIALE</cognome>
+<nome>ANDREA</nome>
+<codfiscale>VLINDR90R25I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA G. GARIBALDI n.83</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>62</codice>
+<cognome>CAVALLERO</cognome>
+<nome>MADDALENA</nome>
+<codfiscale>CVLMDL57A65I138A</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi 14</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>63</codice>
+<cognome>OTTAVIANO</cognome>
+<nome>GIANLUCA</nome>
+<codfiscale>TTVGLC68A18E290O</codfiscale>
+<citta>CARPI</citta>
+<indirizzo>VIA VERDI CIV. 22</indirizzo>
+<cap>41012</cap>
+<provincia>MO</provincia>
+</richiedente>
+<richiedente>
+<codice>63</codice>
+<cognome>OTTAVIANO</cognome>
+<nome>GIANLUCA</nome>
+<codfiscale>TTVGLC68A18E290O</codfiscale>
+<citta>CARPI</citta>
+<indirizzo>VIA VERDI CIV. 22</indirizzo>
+<cap>41012</cap>
+<provincia>MO</provincia>
+</richiedente>
+<richiedente>
+<codice>64</codice>
+<cognome>MORELLO</cognome>
+<nome>MARA</nome>
+<codfiscale>MRLMRA54B53L219W</codfiscale>
+<citta>TORINO</citta>
+<indirizzo>via Villa Glori 11B</indirizzo>
+<cap>10133</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>65</codice>
+<cognome>PELLEGRINI</cognome>
+<nome>GIANNA</nome>
+<codfiscale>PLLGNN62L61I138K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA VIGNE N.23</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>66</codice>
+<cognome>PRATTICO'</cognome>
+<nome>ALESSIO</nome>
+<codfiscale>PRTLSS85T23A145J</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi, 57b</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>66</codice>
+<cognome>CASTORE</cognome>
+<nome>GIORDANA</nome>
+<codfiscale>CSTGDN87C63I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi 57b</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>67</codice>
+<cognome>CAVALLERO</cognome>
+<nome>MAURIZIO</nome>
+<codfiscale>CVLMRZ65C26I138R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Passi 10</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>68</codice>
+<cognome>BERTOLI</cognome>
+<nome>ANNA MARIA</nome>
+<codfiscale>BRTNMR46M67H345K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 24A</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>69</codice>
+<cognome>MICHELINI</cognome>
+<nome>CARLO</nome>
+<codfiscale>MCHCRL70P15E290H</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>VIA CRISTOFORO COLOMBO 164</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>70</codice>
+<cognome>MICHELINI</cognome>
+<nome>CARLO</nome>
+<codfiscale>MCHCRL70P15E290H</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>VIA CRISTOFORO COLOMBO 164</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>71</codice>
+<cognome>NATTA</cognome>
+<nome>SERENA</nome>
+<codfiscale>NTTSRN78L56I138P</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>via Giulio Cesare n. 13</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>72</codice>
+<cognome>NATTA</cognome>
+<nome>SERENA</nome>
+<codfiscale>NTTSRN78L56I138P</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>via Giulio Cesare 13</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>73</codice>
+<cognome>PESANTE</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>PSNNTN64A26I138S</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Casai n° 2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>74</codice>
+<cognome>GAGLIARDI</cognome>
+<nome>DOMENICO</nome>
+<codfiscale>GGLDNC76B29E290L</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Giuseppe Garibaldi</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>75</codice>
+<cognome>CASTORE</cognome>
+<nome>GIORDANA</nome>
+<codfiscale>CSTGDN87C63I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi 57b</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>75</codice>
+<cognome>MORAGLIA</cognome>
+<nome>MANUELA</nome>
+<codfiscale>MRGMNL62C62I138A</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>via Banchette Napoleoniche</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>75</codice>
+<cognome>GIORGINI</cognome>
+<nome>GIANCARLO</nome>
+<codfiscale>GRGGCR60R30I829W</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>via Banchette Napoleoniche, 80</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>75</codice>
+<cognome>PRATTICO'</cognome>
+<nome>ALESSIO</nome>
+<codfiscale>PRTLSS85T23A145J</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Garibaldi, 57b</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>76</codice>
+<cognome>LEONI</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>LNEGNN70L01E290B</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 45</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>76</codice>
+<cognome>LUCCI</cognome>
+<nome>DORIANNA</nome>
+<codfiscale>LCCDRN72L44E290M</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 45</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>77</codice>
+<cognome>COVA</cognome>
+<nome>MAURIZIO</nome>
+<codfiscale>CVOMRZ53C21A122I</codfiscale>
+<citta>ALBENGA</citta>
+<indirizzo>regione pontelungo superiore, 24/1</indirizzo>
+<cap>17031</cap>
+<provincia>SV</provincia>
+</richiedente>
+<richiedente>
+<codice>78</codice>
+<cognome>ARZA'</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>RZASFN64R55E463T</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA 132</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>79</codice>
+<cognome>PRIALE</cognome>
+<nome>ENZO</nome>
+<codfiscale>PRLNZE74L14I138Z</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via aurelia 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>79</codice>
+<cognome>BRUNO</cognome>
+<nome>GIORGIO</nome>
+<codfiscale>BRNGRG68R24I138Z</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>STRADA VILLA</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>80</codice>
+<cognome>LULLO</cognome>
+<nome>VINCENZA</nome>
+<codfiscale>LLLVCN62C71G039O</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 1</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>81</codice>
+<cognome>FAVA</cognome>
+<nome>MARIKA</nome>
+<codfiscale>FVAMRK86L55L219U</codfiscale>
+<citta>LONDRA</citta>
+<indirizzo>finland street</indirizzo>
+<cap></cap>
+<provincia></provincia>
+</richiedente>
+<richiedente>
+<codice>81</codice>
+<cognome>FAVA</cognome>
+<nome>CARMEN</nome>
+<codfiscale>FVACMN78T42L219Y</codfiscale>
+<citta>TORINO</citta>
+<indirizzo>via bardonecchia</indirizzo>
+<cap>10139</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>82</codice>
+<cognome>ZAHARIA</cognome>
+<nome>ALINA ELENA</nome>
+<codfiscale>ZHRLLN77R61Z129W</codfiscale>
+<citta>AGAGGIO</citta>
+<indirizzo>via regina margherita</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>83</codice>
+<cognome>RICCATO</cognome>
+<nome>VIVIANA</nome>
+<codfiscale>RCCVVN43A47L781Z</codfiscale>
+<citta>TORINO</citta>
+<indirizzo>VIA CERNAIA N.30</indirizzo>
+<cap>10122</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>84</codice>
+<cognome>BRONDELLO</cognome>
+<nome>GIANLUCA</nome>
+<codfiscale>BRNGLC78T29D205C</codfiscale>
+<citta>CARAGLIO</citta>
+<indirizzo>VIA VECCHIA DI CUNEO N. 52/B</indirizzo>
+<cap>12023</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>85</codice>
+<cognome>DI FALCO</cognome>
+<nome>FEDERICA</nome>
+<codfiscale>DFLFRC97H60A984R</codfiscale>
+<citta>VALLECROSIA</citta>
+<indirizzo>VIA ALDO MORO n.6/10</indirizzo>
+<cap>18019</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>85</codice>
+<cognome>VIALE</cognome>
+<nome>ANDREA</nome>
+<codfiscale>VLINDR90R25I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA G. GARIBALDI n.47</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>86</codice>
+<cognome>VIALE</cognome>
+<nome>ANDREA</nome>
+<codfiscale>VLINDR90R25I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA G. GARIBALDI n.47</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>86</codice>
+<cognome>DI FALCO</cognome>
+<nome>FEDERICA</nome>
+<codfiscale>DFLFRC97H60A984R</codfiscale>
+<citta>VALLECROSIA</citta>
+<indirizzo>VIA ALDO MORO n.6/10</indirizzo>
+<cap>18019</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>87</codice>
+<cognome>PAROLINI</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>PRLNTN75H25E290H</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>Via Augusto ARMELIO 70</indirizzo>
+<cap>18100</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>88</codice>
+<cognome>BINDA</cognome>
+<nome>GRAZIELLA</nome>
+<codfiscale>BNDGZL57A44F205N</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>VIA CASELLA GIOVANNI BATTISTA 17</indirizzo>
+<cap>20156</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>88</codice>
+<cognome>BUCCHIA</cognome>
+<nome>MAURO PIERINO</nome>
+<codfiscale>BCCMPR53S23F205V</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>VIA CASELLA GIOVANNI BATTISTA 17</indirizzo>
+<cap>20156</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>89</codice>
+<cognome>MINGIONE</cognome>
+<nome>FABIO</nome>
+<codfiscale>MNGFBA70A20I138Y</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>90</codice>
+<cognome>LUCCHERINI</cognome>
+<nome>MARIA</nome>
+<codfiscale>LCCMRA53L42I138M</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>91</codice>
+<cognome>GIUFFRA</cognome>
+<nome>MASSIMO</nome>
+<codfiscale>GFFMSM72A17I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VILALREGGIA 106/B</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>92</codice>
+<cognome>BORGIATTINO</cognome>
+<nome>GIORGIO</nome>
+<codfiscale>BRGGRG67E12L219X</codfiscale>
+<citta>GRUGLIASCO</citta>
+<indirizzo>Strada Moncalieri 29</indirizzo>
+<cap>10095</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>92</codice>
+<cognome>LARETTO</cognome>
+<nome>ENZA</nome>
+<codfiscale>LRTNZE68M63L219L</codfiscale>
+<citta>GRUGLIASCO</citta>
+<indirizzo>Strada Moncalieri n.29</indirizzo>
+<cap>10095</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>93</codice>
+<cognome>PRATTICO'</cognome>
+<nome>ALESSIO</nome>
+<codfiscale>PRTLSS85T23A145J</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI, 57B</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>93</codice>
+<cognome>CASTORE</cognome>
+<nome>GIORDANA</nome>
+<codfiscale>CSTGDN87C63I138H</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI, 57B</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>94</codice>
+<cognome>MORAGLIA</cognome>
+<nome>MANUELA</nome>
+<codfiscale>MRGMNL62C62I138A</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>via Banchette Napoleoniche</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>94</codice>
+<cognome>GIORGINI</cognome>
+<nome>GIANCARLO</nome>
+<codfiscale>GRGGCR60R30I829W</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>via Banchette Napoleoniche, 80</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>95</codice>
+<cognome>GARBERO</cognome>
+<nome>GIACOMO</nome>
+<codfiscale>GRBGCM53A10B791X</codfiscale>
+<citta>VILLAR PEROSA</citta>
+<indirizzo>VIA ALFIERI 11</indirizzo>
+<cap>10069</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>95</codice>
+<cognome>GARIBALDI</cognome>
+<nome>SILVANA</nome>
+<codfiscale>GRBSVN54C53M014A</codfiscale>
+<citta>VILLAR PEROSA</citta>
+<indirizzo>VIA ALFIERI 11</indirizzo>
+<cap>10069</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>96</codice>
+<cognome>TALARICO</cognome>
+<nome>GIULIO</nome>
+<codfiscale>TLRGLI64A01I590Y</codfiscale>
+<citta>COLLEGNO</citta>
+<indirizzo>via Rossini n°33</indirizzo>
+<cap>10093</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>97</codice>
+<cognome>D'ETTORRE</cognome>
+<nome>MARISA</nome>
+<codfiscale>DTTMRS46P44G589B</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>98</codice>
+<cognome>AVOCADI</cognome>
+<nome>GABRIELLA</nome>
+<codfiscale>VCDGRL74T51I138K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 23</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>99</codice>
+<cognome>BENZA</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>BNZFNC84T22E290W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA CASTELLO, 9</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>100</codice>
+<cognome>TALENTI</cognome>
+<nome>MARIELLA</nome>
+<codfiscale>TLNMLL63C59E290K</codfiscale>
+<citta>POMPEIANA</citta>
+<indirizzo>VIA MAZZINI 102</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>101</codice>
+<cognome>GIAMMARINO</cognome>
+<nome>ROSALBA</nome>
+<codfiscale>GMMRLB54A68E290Z</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI</indirizzo>
+<cap>23</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>102</codice>
+<cognome>CONIO</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>CNOGNN57M06I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO 76</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>102</codice>
+<cognome>CONIO</cognome>
+<nome>VALENTINO</nome>
+<codfiscale>CNOVNT64E15I138F</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA 114</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>103</codice>
+<cognome>FOGO</cognome>
+<nome>ANNA PAOLA</nome>
+<codfiscale>FGONPL56L66B216T</codfiscale>
+<citta>TERTENIA</citta>
+<indirizzo>VILLAGGIO ABBA URCI 43</indirizzo>
+<cap>08047</cap>
+<provincia>OG</provincia>
+</richiedente>
+<richiedente>
+<codice>104</codice>
+<cognome>VANIGLIA</cognome>
+<nome>RICCARDO</nome>
+<codfiscale>VNGRCR78D01B573H</codfiscale>
+<citta>CASTIGLIONE FALLETTO</citta>
+<indirizzo>VIA ROMA</indirizzo>
+<cap>12061</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>104</codice>
+<cognome>RICCATO</cognome>
+<nome>VIVIANA</nome>
+<codfiscale>RCCVVN43A47L781Z</codfiscale>
+<citta>TORINO</citta>
+<indirizzo>VIA CERNAIA</indirizzo>
+<cap>10121</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>104</codice>
+<cognome>VOLPI</cognome>
+<nome>STEFANO</nome>
+<codfiscale>VLPSFN38T17D969K</codfiscale>
+<citta>ROMA</citta>
+<indirizzo>VIA ANDREA MELDOLA</indirizzo>
+<cap>00143</cap>
+<provincia>RM</provincia>
+</richiedente>
+<richiedente>
+<codice>104</codice>
+<cognome>BENSO</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>BNSFNC80E14B777C</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO 128</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>104</codice>
+<cognome>QUAGLIA</cognome>
+<nome>SIMONA</nome>
+<codfiscale>QGLSMN75A48D742K</codfiscale>
+<citta>PIOZZO</citta>
+<indirizzo>FRAZIONE SAN GRATO</indirizzo>
+<cap>12060</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>104</codice>
+<cognome>MOSCONE</cognome>
+<nome>ELENA</nome>
+<codfiscale>MSCLNE82B68A124D</codfiscale>
+<citta>CASTIGLIONE FALLETTO</citta>
+<indirizzo>VIA ROMA</indirizzo>
+<cap>12061</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>105</codice>
+<cognome>MORANDO</cognome>
+<nome>MATTEO</nome>
+<codfiscale>MRNMTT83P15E290C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>Corso Dante Alighieri</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>106</codice>
+<cognome>REXHA</cognome>
+<nome>AIDA</nome>
+<codfiscale>RXHDAI83H59Z100V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA N. 24</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>107</codice>
+<cognome>CONIO</cognome>
+<nome>VALENTINO</nome>
+<codfiscale>CNOVNT64E15I138F</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA 114</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>107</codice>
+<cognome>CONIO</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>CNOGNN57M06I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>108</codice>
+<cognome>CAPPONI</cognome>
+<nome>MARIO</nome>
+<codfiscale>CPPMRA35C26B559N</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>109</codice>
+<cognome>LULLO</cognome>
+<nome>VITTORIO</nome>
+<codfiscale>LLLVTR33P05G039Y</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>109</codice>
+<cognome>SARRO</cognome>
+<nome>CONCETTA</nome>
+<codfiscale>SRRCCT34S64G039C</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>110</codice>
+<cognome>CONIO</cognome>
+<nome>VALENTINO</nome>
+<codfiscale>CNOVNT64E15I138F</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA 114</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>110</codice>
+<cognome>CONIO</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>CNOGNN57M06I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO 76</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>111</codice>
+<cognome>D'ANGELO</cognome>
+<nome>FEDERICO</nome>
+<codfiscale>DNGFRC45A01D501D</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA ALLAVENA  10</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>111</codice>
+<cognome>D'ANGELO</cognome>
+<nome>CLARA</nome>
+<codfiscale>DNGCLR47S48D501V</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>VIA DEL FIUME 7</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>112</codice>
+<cognome>TEVERE</cognome>
+<nome>RITA</nome>
+<codfiscale>TVRRTI44D61H211R</codfiscale>
+<citta>MELEGNANO</citta>
+<indirizzo>VIA BROGGI IZAR 7</indirizzo>
+<cap>20077</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>113</codice>
+<cognome>RICCA</cognome>
+<nome>FRANCA</nome>
+<codfiscale>RCCFNC39M41E290V</codfiscale>
+<citta>BRESCIA</citta>
+<indirizzo>VIA DABBENI, 27</indirizzo>
+<cap>25133</cap>
+<provincia>BS</provincia>
+</richiedente>
+<richiedente>
+<codice>114</codice>
+<cognome>RICCATO</cognome>
+<nome>VIVIANA</nome>
+<codfiscale>RCCVVN43A47L781Z</codfiscale>
+<citta>TORINO</citta>
+<indirizzo>VIA CERNAIA N.30</indirizzo>
+<cap>10122</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>115</codice>
+<cognome>DI GERLANDO</cognome>
+<nome>GIUSEPPE</nome>
+<codfiscale>DGRGPP84P22I138E</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>CORSO ORAZIO RAIMONDO 10</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>116</codice>
+<cognome>POLO</cognome>
+<nome>LAURA</nome>
+<codfiscale>PLOLRA48T69F205V</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>via ruffini 12</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>117</codice>
+<cognome>MAZZOLA</cognome>
+<nome>MARCO</nome>
+<codfiscale>MZZMRC92P18I138I</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Garibaldi, 40</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>118</codice>
+<cognome>DI ROMUALDO</cognome>
+<nome>VALENTINA</nome>
+<codfiscale>DRMVNT88E66E290W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA AURELIA 38A</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>119</codice>
+<cognome>VERARDI</cognome>
+<nome>MARIA</nome>
+<codfiscale>VRRMRA34R59F023L</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 23/21</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>120</codice>
+<cognome>FERRARI</cognome>
+<nome>ADRIANA</nome>
+<codfiscale>FRRDRN57T67D142B</codfiscale>
+<citta>BREMBIO</citta>
+<indirizzo>Cascina Monasterolo snc</indirizzo>
+<cap>26822</cap>
+<provincia>LO</provincia>
+</richiedente>
+<richiedente>
+<codice>121</codice>
+<cognome>TIRELLI</cognome>
+<nome>ANGELO</nome>
+<codfiscale>TRLNGL54L28L777M</codfiscale>
+<citta>LODI</citta>
+<indirizzo>via pierantonio todisco</indirizzo>
+<cap>26900</cap>
+<provincia>LO</provincia>
+</richiedente>
+<richiedente>
+<codice>122</codice>
+<cognome>MASSAIA</cognome>
+<nome>MARIA GRAZIA</nome>
+<codfiscale>MSSMGR60A71L219X</codfiscale>
+<citta>CIAMPINO</citta>
+<indirizzo>VIA FRATELLI WRIGHT 53</indirizzo>
+<cap>00043</cap>
+<provincia>RM</provincia>
+</richiedente>
+<richiedente>
+<codice>123</codice>
+<cognome>FERRARI</cognome>
+<nome>ADRIANA</nome>
+<codfiscale>FRRDRN57T67D142B</codfiscale>
+<citta>BREMBIO</citta>
+<indirizzo>Cascina Monasterolo snc</indirizzo>
+<cap>26822</cap>
+<provincia>LO</provincia>
+</richiedente>
+<richiedente>
+<codice>124</codice>
+<cognome>ABBA'</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>BBASFN79E41D205C</codfiscale>
+<citta>CUNEO</citta>
+<indirizzo>VIA ANTONIO MEUCCI N. 8</indirizzo>
+<cap>12100</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>125</codice>
+<cognome>GIACCONE</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>GCCGNN74D16F351S</codfiscale>
+<citta>SAN MICHELE MONDOVÌ</citta>
+<indirizzo>VIA NAZIONALE NR.75</indirizzo>
+<cap>12080</cap>
+<provincia>CN</provincia>
+</richiedente>
+<richiedente>
+<codice>126</codice>
+<cognome>SONNIFERO</cognome>
+<nome>BARBARA</nome>
+<codfiscale>SNNBBR71T43I138G</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO PALERMO 5</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>126</codice>
+<cognome>D'AGOSTINO</cognome>
+<nome>VINCENZO</nome>
+<codfiscale>DGSVCN70P21E290B</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO PALERMO 5</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>127</codice>
+<cognome>ROTA</cognome>
+<nome>ENZA</nome>
+<codfiscale>RTONZE46E69B796P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>corso Villaregia 81</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>127</codice>
+<cognome>GARIBALDI</cognome>
+<nome>BARTOLOMEO</nome>
+<codfiscale>GRBBTL36D29H345C</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>corso Villaregia 81</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>128</codice>
+<cognome>GHIVARELLO</cognome>
+<nome>GIORGIO</nome>
+<codfiscale>GHVGRG47A06L219S</codfiscale>
+<citta>PINO TORINESE</citta>
+<indirizzo>via valle miglioretti, 29</indirizzo>
+<cap>10125</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>129</codice>
+<cognome>D'ERCOLE</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>DRCGNN58T20H328L</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BARGO 24</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>130</codice>
+<cognome>ROVETO</cognome>
+<nome>SILVANA</nome>
+<codfiscale>RVTSVN59A54L219D</codfiscale>
+<citta>PINEROLO</citta>
+<indirizzo>STRADA COSTAGRANDE n° 120</indirizzo>
+<cap>10064</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>131</codice>
+<cognome>ROVETO</cognome>
+<nome>AUGUSTA</nome>
+<codfiscale>RVTGST61M60F889S</codfiscale>
+<citta>BRICHERASIO</citta>
+<indirizzo>VIA MARTIRI DELLA LIBERTA'  n° 34</indirizzo>
+<cap>10060</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>132</codice>
+<cognome>BERGONZI</cognome>
+<nome>MICHELA</nome>
+<codfiscale>BRGMHL76L70G388R</codfiscale>
+<citta>PAVIA</citta>
+<indirizzo>VIA GORIZIA 35</indirizzo>
+<cap>27100</cap>
+<provincia>PV</provincia>
+</richiedente>
+<richiedente>
+<codice>133</codice>
+<cognome>VIGNA</cognome>
+<nome>GIORGIO PIETRO</nome>
+<codfiscale>VGNGGP37H12L219R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA N° 178</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>134</codice>
+<cognome>GARIBALDI</cognome>
+<nome>BARTOLOMEO</nome>
+<codfiscale>GRBBTL35A29H345V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BATOLA 12</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>135</codice>
+<cognome>TIRELLI</cognome>
+<nome>ANGELO</nome>
+<codfiscale>TRLNGL54L28L777M</codfiscale>
+<citta>LODI</citta>
+<indirizzo>via pierantoniotodisco 11</indirizzo>
+<cap>26900</cap>
+<provincia>LO</provincia>
+</richiedente>
+<richiedente>
+<codice>136</codice>
+<cognome>MEROGNO</cognome>
+<nome>BRUNA</nome>
+<codfiscale>MRGBNR63B41I138K</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>via b.a. nuvolone 60</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>136</codice>
+<cognome>MEROGNO</cognome>
+<nome>IVANO</nome>
+<codfiscale>MRGVNI57S25E290J</codfiscale>
+<citta>POMPEIANA</citta>
+<indirizzo>REGIONE SORAIOLI</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>137</codice>
+<cognome>TIRELLI</cognome>
+<nome>ANGELO</nome>
+<codfiscale>TRLNGL54L28L777M</codfiscale>
+<citta>LODI</citta>
+<indirizzo>via pierantonio todisco 11</indirizzo>
+<cap>26900</cap>
+<provincia>LO</provincia>
+</richiedente>
+<richiedente>
+<codice>138</codice>
+<cognome>GARIBALDI</cognome>
+<nome>BARTOLOMEO</nome>
+<codfiscale>GRBBTL35A29H345V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BATOLA 12</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>139</codice>
+<cognome>MASSA</cognome>
+<nome>LUIGIA</nome>
+<codfiscale>MSSLGU50H47G098Y</codfiscale>
+<citta>SAN MAURO TORINESE</citta>
+<indirizzo>VIA DEL PORTO 24</indirizzo>
+<cap>10099</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>140</codice>
+<cognome>TORIELLI</cognome>
+<nome>FRANCESCA</nome>
+<codfiscale>TRLFNC80P52D600J</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA MARTIRI DELLA LIBERTA'</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>141</codice>
+<cognome>GIAMMARINO</cognome>
+<nome>ELDA</nome>
+<codfiscale>GMMLDE59R67G438B</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>via castellaro</indirizzo>
+<cap>8</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>142</codice>
+<cognome>CAGLIO</cognome>
+<nome>MARISA</nome>
+<codfiscale>CGLMRS65H59L629J</codfiscale>
+<citta>VARISELLA</citta>
+<indirizzo>VIA ROMA N° 18/A</indirizzo>
+<cap>10070</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>143</codice>
+<cognome>TORAZZA</cognome>
+<nome>ANNA MARIA</nome>
+<codfiscale>TRZNMR55T66B791A</codfiscale>
+<citta>CARMAGNOLA</citta>
+<indirizzo>VIA SOMMARIVA 103</indirizzo>
+<cap>10022</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>143</codice>
+<cognome>BRUGNOLI</cognome>
+<nome>ALDO</nome>
+<codfiscale>BRGLDA53P06F205D</codfiscale>
+<citta>CARMAGNOLA</citta>
+<indirizzo>VIA SOMMARIVA 103</indirizzo>
+<cap>10022</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>144</codice>
+<cognome>CAGLIO</cognome>
+<nome>MARISA</nome>
+<codfiscale>CGLMRS65H59L629J</codfiscale>
+<citta>VARISELLA</citta>
+<indirizzo>VIA ROMA N° 18/A</indirizzo>
+<cap>10070</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>145</codice>
+<cognome>VIVACE</cognome>
+<nome>SERGIO</nome>
+<codfiscale>VVCSRG67A03I138Y</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Aurelia n.24</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>145</codice>
+<cognome>MODESTI</cognome>
+<nome>RINA</nome>
+<codfiscale>MDSRNI39P67C316P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Corso Villareggia n.38</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>145</codice>
+<cognome>VIVACE</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>VVCFNC60B20I138H</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>Via Ortassi 46</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>146</codice>
+<cognome>RUSSI</cognome>
+<nome>LISA</nome>
+<codfiscale>RSSLSI62B42I138V</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>VIA LITTARDI 57</indirizzo>
+<cap>18100</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>146</codice>
+<cognome>RUSSI</cognome>
+<nome>MARCO</nome>
+<codfiscale>RSSMRC85M29E290O</codfiscale>
+<citta>TORINO</citta>
+<indirizzo>VIA GROSSI TOMMASO 20 BIS</indirizzo>
+<cap>10121</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>146</codice>
+<cognome>RUSSI</cognome>
+<nome>CRISTINA</nome>
+<codfiscale>RSSCST92A54E290Y</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 57</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>147</codice>
+<cognome>ROSCIANO</cognome>
+<nome>CARLO</nome>
+<codfiscale>RSCCRL48D28H345Y</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA 118</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>148</codice>
+<cognome>LANZA</cognome>
+<nome>ANITA</nome>
+<codfiscale>LNZNTA58R48I138T</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 87</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>148</codice>
+<cognome>SASSO</cognome>
+<nome>GIAMPIERO</nome>
+<codfiscale>SSSGPR54H02L430B</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>148</codice>
+<cognome>SASSO</cognome>
+<nome>EMANUELA</nome>
+<codfiscale>SSSMNL80L49A145U</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>149</codice>
+<cognome>GIAMMARINO</cognome>
+<nome>ADRIANA</nome>
+<codfiscale>GMMDRN58B51E290K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Aurelia n. 14</indirizzo>
+<cap>1800</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>150</codice>
+<cognome>SAGAZIO</cognome>
+<nome>BRUNO</nome>
+<codfiscale>SGZBRN57P23I138V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI, 2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>150</codice>
+<cognome>SAGAZIO</cognome>
+<nome>ANGELINA</nome>
+<codfiscale>SGZNLN54D64G438R</codfiscale>
+<citta>OSTIANO</citta>
+<indirizzo>VIA MIGLIOLI PARIDE, 12</indirizzo>
+<cap>26032</cap>
+<provincia>CR</provincia>
+</richiedente>
+<richiedente>
+<codice>150</codice>
+<cognome>SAGAZIO</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>SGZRNN59C46I138L</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>via lercari 27</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>150</codice>
+<cognome>SAGAZIO</cognome>
+<nome>SILVANA</nome>
+<codfiscale>SGZSVN52P44G438U</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>VIA COLLETTE, 47</indirizzo>
+<cap>18100</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>151</codice>
+<cognome>CAVALLERO</cognome>
+<nome>MAURIZIO</nome>
+<codfiscale>CVLMRZ65C26I138R</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA PASSI 10</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>152</codice>
+<cognome>CAVALLO-GUZZO</cognome>
+<nome>GIULIANA</nome>
+<codfiscale>CVLGLN58C44G674Z</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>via Falck Enrico n°53</indirizzo>
+<cap>20151</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>153</codice>
+<cognome>SOCCO</cognome>
+<nome>MARIANGELA</nome>
+<codfiscale>SCCMNG45C50B782J</codfiscale>
+<citta>GRUGLIASCO</citta>
+<indirizzo>VIA C. SPANNA, 1/46</indirizzo>
+<cap>10095</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>153</codice>
+<cognome>SERENO REGIS</cognome>
+<nome>FEDERICO</nome>
+<codfiscale>SRNFRC35H26C133S</codfiscale>
+<citta>GRUGLIASCO</citta>
+<indirizzo>VIA C. SPANNA, 1/46</indirizzo>
+<cap>10095</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>154</codice>
+<cognome>CHIMENTI</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>CHMRNN72B41I138D</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>Via Terzorio 66</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>155</codice>
+<cognome>ALBESIANO</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>LBSGNN41E09D499I</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA CASAI 5</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>155</codice>
+<cognome>D'ANGELO</cognome>
+<nome>ANNUNZIATA</nome>
+<codfiscale>DNGNNZ43D41G438X</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>strada Casai  5</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>156</codice>
+<cognome>NUVOLONI</cognome>
+<nome>FRANCO</nome>
+<codfiscale>NVLFNC42R04H345B</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA NINO BIXIO 15</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>157</codice>
+<cognome>DE MICHELIS</cognome>
+<nome>FRANCESCA</nome>
+<codfiscale>DMCFNC64S41I138M</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>corso villaregia 102</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>158</codice>
+<cognome>CHIMENTI</cognome>
+<nome>ROSANNA</nome>
+<codfiscale>CHMRNN72B41I138D</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>Via Terzorio 66</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>159</codice>
+<cognome>D'ERCOLE</cognome>
+<nome>GIOVANNI</nome>
+<codfiscale>DRCGNN58T20H328L</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VICO BARGO 24</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>160</codice>
+<cognome>MACCARIO</cognome>
+<nome>SILVANA</nome>
+<codfiscale>MCCSVN49E44B559Q</codfiscale>
+<citta>CAMPOROSSO</citta>
+<indirizzo>PIAZZA MADONNA 14</indirizzo>
+<cap>18033</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>161</codice>
+<cognome>STRAFFORELLO</cognome>
+<nome>PATRIZIA</nome>
+<codfiscale>STRPRZ76A61E290G</codfiscale>
+<citta>DIANO MARINA</citta>
+<indirizzo>CORSO ROMA N. 12</indirizzo>
+<cap>18013</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>162</codice>
+<cognome>ROMMELLI</cognome>
+<nome>ROBERTO</nome>
+<codfiscale>RMMRRT63D12E290C</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>STRADA CIOSA, 29</indirizzo>
+<cap>18100</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>162</codice>
+<cognome>BALDASSARRE</cognome>
+<nome>ROMANA</nome>
+<codfiscale>BLDRMN32T45A885Q</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>lungomare Cristoforo Colombo n. 102</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>162</codice>
+<cognome>ROMMELLI</cognome>
+<nome>CARLO</nome>
+<codfiscale>RMMCRL55P07E290M</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>strada Ciosa, 31</indirizzo>
+<cap>18100</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>163</codice>
+<cognome>GAMBIRASIO</cognome>
+<nome>ANGELA</nome>
+<codfiscale>GMBNGL46R56B703E</codfiscale>
+<citta>OSIO SOTTO</citta>
+<indirizzo>VIA DOMENICO CIMAROSA 8</indirizzo>
+<cap>24046</cap>
+<provincia>BG</provincia>
+</richiedente>
+<richiedente>
+<codice>164</codice>
+<cognome>COLANGELO</cognome>
+<nome>GIANFRANCESCO</nome>
+<codfiscale>CLNGFR75P25F205F</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>VIA W GOETHE 35</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>164</codice>
+<cognome>COLANGELO</cognome>
+<nome>CLARA FLORA</nome>
+<codfiscale>CLNCRF69E45A940X</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>NINO BIXIO 124</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>164</codice>
+<cognome>ROLANDO</cognome>
+<nome>CATERINA</nome>
+<codfiscale>RLNCRN42E66I138D</codfiscale>
+<citta>SANREMO</citta>
+<indirizzo>VIA GOETHE 35</indirizzo>
+<cap>18038</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>165</codice>
+<cognome>LIGATO</cognome>
+<nome>CARMELA</nome>
+<codfiscale>LGTCML64B42Z110G</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA CASTELLARO n. 6</indirizzo>
+<cap>18011</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>166</codice>
+<cognome>MACCARIO</cognome>
+<nome>SILVANA</nome>
+<codfiscale>MCCSVN49E44B559Q</codfiscale>
+<citta>CAMPOROSSO</citta>
+<indirizzo>piazza madonna 14</indirizzo>
+<cap>18033</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>167</codice>
+<cognome>PESANTE</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>PSNNTN64A26I138S</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Strada Casai n° 2</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>168</codice>
+<cognome>MACCARIO</cognome>
+<nome>SILVANA</nome>
+<codfiscale>MCCSVN49E44B559Q</codfiscale>
+<citta>CAMPOROSSO</citta>
+<indirizzo>piazza madonna 14</indirizzo>
+<cap>18033</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>169</codice>
+<cognome>PAROLINI</cognome>
+<nome>ANTONIO</nome>
+<codfiscale>PRLNTN75H25E290H</codfiscale>
+<citta>IMPERIA</citta>
+<indirizzo>via serrati 23</indirizzo>
+<cap>18100</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>170</codice>
+<cognome>POLOVENKO</cognome>
+<nome>YULIYA</nome>
+<codfiscale>PLVYLY91E64Z112X</codfiscale>
+<citta>ASTI</citta>
+<indirizzo>via Alessandro Manzoni 7</indirizzo>
+<cap>14100</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>170</codice>
+<cognome>PERRONE</cognome>
+<nome>MASSIMO FABRIZIO</nome>
+<codfiscale>PRRMSM85E06A479T</codfiscale>
+<citta>ASTI</citta>
+<indirizzo>frazione castiglione 187</indirizzo>
+<cap>14100</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>171</codice>
+<cognome>BENZA</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>BNZFNC84T22E290W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA CASTELLO, 9</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>172</codice>
+<cognome>TALARICO</cognome>
+<nome>GIULIO</nome>
+<codfiscale>TLRGLI64A01I590Y</codfiscale>
+<citta>COLLEGNO</citta>
+<indirizzo>via Rossini n°33</indirizzo>
+<cap>10093</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>173</codice>
+<cognome>ZENZALE</cognome>
+<nome>ANDREA</nome>
+<codfiscale>ZNZNDR93A16I138L</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via garibaldi 56</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>173</codice>
+<cognome>SABLONE</cognome>
+<nome>ROSA</nome>
+<codfiscale>SBLRSO64C70Z110P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 38</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>173</codice>
+<cognome>ZENZALE</cognome>
+<nome>FEDERICO</nome>
+<codfiscale>ZNZFRC87D30I138L</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>Via Garibaldi</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>174</codice>
+<cognome>LECCHI</cognome>
+<nome>MARIO</nome>
+<codfiscale>LCCMRA59B03G388W</codfiscale>
+<citta>GARLASCO</citta>
+<indirizzo>VIA MULINO 29/1</indirizzo>
+<cap>27026</cap>
+<provincia>PV</provincia>
+</richiedente>
+<richiedente>
+<codice>174</codice>
+<cognome>LECCHI</cognome>
+<nome>STEFANIA</nome>
+<codfiscale>LCCSFN61R61D925U</codfiscale>
+<citta>VIGEVANO</citta>
+<indirizzo>via V. Motta Visconti 28</indirizzo>
+<cap>27029</cap>
+<provincia>PV</provincia>
+</richiedente>
+<richiedente>
+<codice>174</codice>
+<cognome>SANTAGOSTINI</cognome>
+<nome>ESTERINA</nome>
+<codfiscale>SNTSRN37B48B741H</codfiscale>
+<citta>GARLASCO</citta>
+<indirizzo>via Edmondo De Amicis 12/4</indirizzo>
+<cap>27026</cap>
+<provincia>PV</provincia>
+</richiedente>
+<richiedente>
+<codice>175</codice>
+<cognome>MAZZA</cognome>
+<nome>FRANCESCO</nome>
+<codfiscale>MZZFNC54H20I095F</codfiscale>
+<citta>ARMA DI TAGGIA</citta>
+<indirizzo>VIA CASTELLETTI, 22/10</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>176</codice>
+<cognome>BESCHI</cognome>
+<nome>STEFANO</nome>
+<codfiscale>BSCSFN81P01E290F</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>via san Martino 8 A</indirizzo>
+<cap>18018</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>176</codice>
+<cognome>BESCHI</cognome>
+<nome>SIMONA</nome>
+<codfiscale>BSCSMN73E58I138Z</codfiscale>
+<citta>TAGGIA</citta>
+<indirizzo>via badalucco antica 4</indirizzo>
+<cap>4</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>176</codice>
+<cognome>BESCHI</cognome>
+<nome>CLOTILDE MARIA</nome>
+<codfiscale>BSCCTL52B69A470F</codfiscale>
+<citta>CARVICO</citta>
+<indirizzo>VIA DR. G. BERNARDI 9</indirizzo>
+<cap>24030</cap>
+<provincia>BG</provincia>
+</richiedente>
+<richiedente>
+<codice>177</codice>
+<cognome>CECCHELLI</cognome>
+<nome>ENRICO</nome>
+<codfiscale>CCCNRC56R13I138W</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GARIBALDI 63</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>178</codice>
+<cognome>ANNOVAZZI</cognome>
+<nome>GIUSEPPE</nome>
+<codfiscale>NNVGPP65S08A984A</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA COMUNALE DON, 6</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>178</codice>
+<cognome>BARLA</cognome>
+<nome>PATRIZIA</nome>
+<codfiscale>BRLPRZ64C63E290V</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>STRADA COMUNALE DON, 3</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>179</codice>
+<cognome>GRABOWSKA</cognome>
+<nome>WIOLETTA</nome>
+<codfiscale>GRBWTT74E70Z127N</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>VIA TITO VIGNOLI 46</indirizzo>
+<cap>20146</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>180</codice>
+<cognome>DOLMETTA</cognome>
+<nome>PAOLINA</nome>
+<codfiscale>DLMPLN50H57C718D</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA GIARDINO N°84</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>180</codice>
+<cognome>DOLMETTA</cognome>
+<nome>MADDALENA</nome>
+<codfiscale>DLMMDL54P52H328B</codfiscale>
+<citta>SANTO STEFANO AL MARE</citta>
+<indirizzo>VIA AURELIA PONENTE N°104/C</indirizzo>
+<cap>18010</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>181</codice>
+<cognome>RICCA</cognome>
+<nome>FRANCA</nome>
+<codfiscale>RCCFNC39M41E290V</codfiscale>
+<citta>BRESCIA</citta>
+<indirizzo>VIA DABBENI, 27</indirizzo>
+<cap>25133</cap>
+<provincia>BS</provincia>
+</richiedente>
+<richiedente>
+<codice>181</codice>
+<cognome>RICCA</cognome>
+<nome>FRANCA</nome>
+<codfiscale>RCCFNC39M41E290V</codfiscale>
+<citta>BRESCIA</citta>
+<indirizzo>VIA DABBENI, 27</indirizzo>
+<cap>25133</cap>
+<provincia>BS</provincia>
+</richiedente>
+<richiedente>
+<codice>182</codice>
+<cognome>BERTOLI</cognome>
+<nome>ANNA MARIA</nome>
+<codfiscale>BRTNMR46M67H345K</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via aurelia</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>183</codice>
+<cognome>TIVANO</cognome>
+<nome>ROBERTO</nome>
+<codfiscale>TVNRRT49D03B777R</codfiscale>
+<citta>MONCALIERI</citta>
+<indirizzo>FRAZIONE LA GORRA 1</indirizzo>
+<cap>10024</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>183</codice>
+<cognome>FATTORE</cognome>
+<nome>MARINA</nome>
+<codfiscale>FTTMRN48S51C057I</codfiscale>
+<citta>MONCALIERI</citta>
+<indirizzo>FRAZIONE LA GORRA</indirizzo>
+<cap>10024</cap>
+<provincia>TO</provincia>
+</richiedente>
+<richiedente>
+<codice>184</codice>
+<cognome>GARIBALDI</cognome>
+<nome>NATALE</nome>
+<codfiscale>GRBNTL71R16I138M</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>CORSO VILLAREGIA  81</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>185</codice>
+<cognome>BEFFA</cognome>
+<nome>RICCARDO</nome>
+<codfiscale>BFFRCR47E11B817R</codfiscale>
+<citta>MILANO</citta>
+<indirizzo>VIA VAL SESIA 44</indirizzo>
+<cap>20121</cap>
+<provincia>MI</provincia>
+</richiedente>
+<richiedente>
+<codice>186</codice>
+<cognome>GUCCINI DEL GUERCIO</cognome>
+<nome>MICHELE</nome>
+<codfiscale>GCCMHL78C29I138P</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>via Castellaro 16</indirizzo>
+<cap>18011</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>187</codice>
+<cognome>LANZA</cognome>
+<nome>PIERINO</nome>
+<codfiscale>LNZPRN48A06H020Q</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>VIA ALLAVENA N. 8</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>188</codice>
+<cognome>OCCHIENA</cognome>
+<nome>CLAUDIA</nome>
+<codfiscale>CCHCLD73T41C627D</codfiscale>
+<citta>CASTELNUOVO DON BOSCO</citta>
+<indirizzo>VIA GIUSEPPE RAPELLI 3</indirizzo>
+<cap>14022</cap>
+<provincia>AT</provincia>
+</richiedente>
+<richiedente>
+<codice>189</codice>
+<cognome>MARTIN</cognome>
+<nome>EVELYNE ELIANE JACQUELINE</nome>
+<codfiscale>MRTVYN54L71Z123N</codfiscale>
+<citta>ROQUEBRUNE - CAP MARTIN</citta>
+<indirizzo>prom Albert Camus, 56</indirizzo>
+<cap></cap>
+<provincia>EE</provincia>
+</richiedente>
+<richiedente>
+<codice>190</codice>
+<cognome>LUCIANI</cognome>
+<nome>CLAUDIO</nome>
+<codfiscale>LCNCLD57L15I138Z</codfiscale>
+<citta>RIVA LIGURE</citta>
+<indirizzo>vico batola 16</indirizzo>
+<cap>18015</cap>
+<provincia>IM</provincia>
+</richiedente>
+<richiedente>
+<codice>191</codice>
+<cognome>MARTIN</cognome>
+<nome>EVELYNE ELIANE JACQUELINE</nome>
+<codfiscale>MRTVYN54L71Z123N</codfiscale>
+<citta>ROQUEBRUNE - CAP MARTIN</citta>
+<indirizzo>prom Albert Camus, 56</indirizzo>
+<cap></cap>
+<provincia>EE</provincia>
+</richiedente>
+</GEOSuedi>
