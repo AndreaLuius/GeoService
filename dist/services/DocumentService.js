@@ -37,7 +37,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.DocumentService = void 0;
 const soapRequest = require('easy-soap-request');
-const inspect = require("util").inspect;
 const path = require("path");
 const fs_1 = __importDefault(require("fs"));
 const base_64_1 = __importDefault(require("base-64"));
